@@ -1,4 +1,4 @@
-package com.chd.Socket;
+package com.chd.socket;
 
 import com.chd.entity.Account;
 import com.chd.entity.Packet;

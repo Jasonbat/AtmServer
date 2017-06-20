@@ -1,4 +1,4 @@
-package com.chd.Socket;
+package com.chd.socket;
 
 import java.io.IOException;
 import java.net.ServerSocket;
